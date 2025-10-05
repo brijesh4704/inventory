@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
-from PROJECT_CODE import clientsdb, purchases, goodsrev, raports
+from project_code import clientsdb, purchases, goodsrev, raports
+
 
 st.set_page_config(page_title="MAIG Warehouse", layout="wide")
 
